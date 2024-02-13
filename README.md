@@ -1,6 +1,12 @@
 # Hangman
  Hangman Game
 <h1 align="center">
-   <img src="imagens/gamez.png">
+   '''
+    <img src="imagens/gamez.png">
+   '''
+   >teste comentario
 </h1>
-asd
+
+<p>
+
+</p>
